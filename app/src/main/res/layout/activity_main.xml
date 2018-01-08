@@ -84,7 +84,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:layout_toRightOf="@id/image2"
-            android:text="Ikan Goreng" />
+            android:text="Ikan Lele Goreng" />
 
         <TextView
             android:id="@+id/harga2"
