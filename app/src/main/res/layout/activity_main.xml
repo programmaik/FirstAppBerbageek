@@ -93,7 +93,7 @@
             android:layout_marginLeft="50dp"
             android:layout_toRightOf="@id/tvmenu2"
             android:layout_centerInParent="true"
-            android:text="hargamenu"/>
+            android:text="harga1"/>
 
     </RelativeLayout>
 
@@ -105,9 +105,6 @@
         android:layout_below="@+id/menu2"
         android:layout_centerHorizontal="true"
         />
-		
-		
-		<!--test commit-->
 </RelativeLayout>
 
 
